@@ -6,6 +6,7 @@ Only STA/Monitor Mode is supported, no AP.
 
 A few known wireless cards that use this driver include 
 * [Edimax EW-7822ULC](http://us.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/us/wireless_adapters_ac1200_dual-band/ew-7822ulc/)
+* [Edimax EW-7822UTC](http://us.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/us/wireless_adapters_ac1200_dual-band/ew-7822utc/)
 * [ASUS AC-53 NANO](https://www.asus.com/Networking/USB-AC53-Nano/)
 
 
