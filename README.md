@@ -17,12 +17,15 @@ A few known wireless cards that use this driver include
 Currently tested on X86_64 and ARM platform(s) **only**,  
 cross compile possible.
 
-For compiling type  
+For manual installation type  
 `make`  
-in source dir  
-
-To install the firmware files  
+in source dir; then, to install the firmware files  
 `sudo make install`
+
+Or, for DKMS-compatible distros, (after installing `dkms` package,) place or link the source dir as  
+`/usr/src/rtl8822bu-git`  
+then execute  
+`sudo dkms install rtl8822bu/git`
 
 
 To Unload driver you may need to disconnect the device  
